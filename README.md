@@ -16,7 +16,7 @@ Proyek ini berisi beberapa program sederhana yang dibuat dengan **C++** mengguna
 
 ##  Calculator
 
- **Fungsi**: Melakukan operasi dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+ **Fungsi**: Program kalkulator sederhana yang bisa melakukan operasi dasar: penjumlahan, pengurangan, perkalian, dan pembagian.
 
  **Kode:**
 
@@ -73,6 +73,8 @@ Pembagian: 2
 
 ##  Student
 
+**Fungsi**: Program ini menyimpan informasi mahasiswa dan menampilkannya.
+
  **Kode:**
 
 ```cpp
@@ -124,6 +126,8 @@ Nama: Rini, ID: 12345, Grade: A
 
 ##  Rectangle
 
+**Fungsi**: Program ini menghitung luas persegi panjang berdasarkan panjang dan lebar yang dimasukan.
+
  **Kode:**
 
 ```cpp
@@ -166,6 +170,8 @@ Luas Persegi Panjang: 21
 ---
 
 ##  Counter
+
+**Fungsi**: Program ini meningkatkan nilai counter berdasarkan jumlah inputan pengguna. 
 
  **Kode:**
 
@@ -212,6 +218,8 @@ Nilai Counter: 5
 ---
 
 ##  Point
+
+**Fungsi**: Program ini mempresentasikan titik dalam koordinat 2D dan menghitung jarak titik tersebut dari titik asal (0,0) menggunakan **Teorema Phytagoras**.
 
  **Kode:**
 
