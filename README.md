@@ -14,7 +14,7 @@ Proyek ini berisi beberapa program sederhana yang dibuat dengan **C++** mengguna
 
 ---
 
-## Calculator
+##  Calculator
 
  **Fungsi**: Melakukan operasi dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
 
